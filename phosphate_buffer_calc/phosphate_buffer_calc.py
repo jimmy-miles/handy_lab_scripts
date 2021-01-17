@@ -1,4 +1,4 @@
-#!/home/hannes/.conda/envs/bioinfo/bin/python3.8
+#!/home/hannes/.local/share/miniconda/envs/bioinfo/bin/python3.8
 
 ################################################################################
 # Author: Hannes Meinert                                                       #

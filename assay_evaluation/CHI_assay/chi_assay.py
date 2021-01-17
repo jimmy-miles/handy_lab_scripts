@@ -14,6 +14,7 @@
 ############################## Goals/ToDo ######################################
 # Priority 1 (high)
 ## take most linear part separately for each sample (therefore display curve) then manual input display curve full and then each time after adjustment user decides when good
+## log file
 
 
 # Priority 2 (medium)
